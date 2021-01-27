@@ -1,0 +1,27 @@
+.maindiv{
+    border: 2px solid gray;
+    margin: 0px auto;
+    width: 250px;
+}
+.input, .clearbtn{
+    width: 94%;
+    margin: 3px;
+    height: 30px;
+    background-color: gray;
+    color: honeydew;
+}
+.clearbtn{
+    width: 99% !important;
+    margin: 1px !important;
+    height: 20px !important;
+}
+.btn, .btnequal{
+    background-color: gray;
+    color: honeydew;
+    width: 23%;
+    margin: 1px;
+    height: 30px;
+}
+.btnequal{
+    width: 48% !important;
+}
