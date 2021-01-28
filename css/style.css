@@ -70,6 +70,7 @@ div > h1{
     }
     .btn{
         width: 20% !important;
+        color: red !important;
     }
 }
 @media screen and (max-width: 320px){
@@ -78,7 +79,7 @@ div > h1{
     }
     .btn{
         width: 20% !important;
-        color: red;
+        color: red !important;
 
     }
 }
