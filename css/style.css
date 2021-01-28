@@ -48,11 +48,11 @@ div > h1{
         padding-left: 400px;
     }
 }
-@media screen and (max-width: 1024px){
+/* @media screen and (max-width: 1024px){
     div > h1{
         padding-left: 390px;
     }
-}
+} */
 @media screen and (max-width: 768px){
     div > h1{
         padding-left: 270px;
