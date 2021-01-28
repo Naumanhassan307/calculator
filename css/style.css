@@ -32,7 +32,43 @@
 }
 div > h1{
     text-transform: capitalize;
-    padding-left: 565px;
     font-size: medium;
     color:  gray;
+}
+
+
+@media screen and (max-width: 1300px){
+    div > h1{
+        padding-left: 565px;
+    }
+}
+@media screen and (max-width: 1024px){
+    div > h1{
+        padding-left: 400px;
+    }
+}
+@media screen and (max-width: 1024px){
+    div > h1{
+        padding-left: 390px;
+    }
+}
+@media screen and (max-width: 768px){
+    div > h1{
+        padding-left: 270px;
+    }
+}
+@media screen and (max-width: 425px){
+    div > h1{
+        padding-left: 100px;
+    }
+}
+@media screen and (max-width: 375px){
+    div > h1{
+        padding-left: 70px;
+    }
+}
+@media screen and (max-width: 320px){
+    div > h1{
+        padding-left: 50px;
+    }
 }
