@@ -66,6 +66,10 @@ div > h1{
 @media screen and (max-width: 375px){
     div > h1{
         padding-left: 70px;
+        
+    }
+    .btn{
+        width: 20% !important;
     }
 }
 @media screen and (max-width: 320px){
