@@ -32,6 +32,7 @@
 }
 div > h1{
     text-transform: capitalize;
+    padding-left: 565px;
     font-size: medium;
     color:  gray;
 }
