@@ -78,6 +78,7 @@ div > h1{
     }
     .btn{
         width: 20% !important;
-        
+        color: red;
+
     }
 }
